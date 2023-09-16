@@ -1,0 +1,16 @@
+wheel
+tinyaes
+pyinstaller
+pyaesm
+urllib3
+colorama
+keyboard
+requests
+wifi
+bs4
+pystyle
+sellix
+urllib3
+selenium
+discord
+aiohtt
