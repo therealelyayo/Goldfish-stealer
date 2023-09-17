@@ -1,5 +1,6 @@
 <img  src="https://cdn-icons-png.flaticon.com/128/6646/6646463.png">
-**Introduction**
+
+# Introduction
 
 <p>Hydra is one of the most powerful stealers unlike other stealers! Hydra grabs a massive ammount of information from a computer! Hydra has a lot of good and improved features</p>
 
