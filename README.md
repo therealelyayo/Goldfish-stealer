@@ -5,7 +5,7 @@
 <p>Hydra is one of the most powerful stealers unlike other stealers! Hydra grabs a massive ammount of information from a computer! Hydra has a lot of good and improved features</p>
 
  **Setup**
-
+> - Disable Antiviruses
 > - Open builder.bat which will automatically install requirements and open the builder
 > - Select the type of file you want to build either .scr, .cmd or .exe
 > - Then Input your webhook
