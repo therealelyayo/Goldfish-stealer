@@ -11,6 +11,7 @@
 > - Then Input your webhook
 > - Select the options you want
 > - Click on build and the file will be inside the dist folder!
+
 **Credits**
 
 <p>Credits goes to 9pingzzz in discord and Spyware.py for suggesting ideas!</p>
