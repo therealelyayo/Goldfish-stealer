@@ -3,6 +3,7 @@
 # Introduction
 
 <p>Hydra is one of the most powerful stealers unlike other stealers! Hydra grabs a massive ammount of information from a computer! Hydra has a lot of good and improved features</p>
+## REPOSITORY HAS BEEN MOVED! PLEASE STAR THIS REPORISTORY
 
  **Setup**
 > - Disable Antiviruses
