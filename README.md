@@ -17,7 +17,7 @@
 
 **Credits**
 
-<p>Credits goes to 9pingzzz in discord and Spyware.py for suggesting ideas!</p>
+<p>Credits to 9Pingz for making the powerful grabber! Please star this repository because it's new and it has been moved.</p>
 
 **Disclaimer**
 
