@@ -1,4 +1,4 @@
 @echo off
 START utils\upx.exe
-python goldfish.py
+python hydra.py
 pause
